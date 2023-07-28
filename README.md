@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AAZA Seifeddine</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifaaza" alt="seifaaza" /></a> </p>
-
 - 📫 How to reach me **seifeddine.aaza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
